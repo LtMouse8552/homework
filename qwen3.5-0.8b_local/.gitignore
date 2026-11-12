@@ -1,0 +1,12 @@
+datas/
+vectors/
+models/
+__pycache__/
+*.pyc
+*.log
+.venv/
+cloudflared.exe
+cf_tunnel.log
+
+web/node_modules/
+web/dist/
