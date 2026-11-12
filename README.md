@@ -4,12 +4,24 @@
 
 ## 📦 仓库内容
 
+### 课程作业文件
+
 | 文件 | 说明 |
 | --- | --- |
 | `f25015138-徐潘磊-开源合规与许可证.docx` | 课程作业报告（含分析方法与结论） |
 | `license-checker-report.csv` | 许可证扫描详细报告（CSV 格式） |
 | `license-checker-report.json` | 许可证扫描详细报告（JSON 格式） |
 | `license-checker-summary.txt` | 扫描结果统计摘要 |
+
+### 已并入的子项目
+
+| 目录 | 说明 |
+| --- | --- |
+| `LocalRAG/` | 本地知识库 RAG 问答系统（暗色科技风 + 液态玻璃界面，TypeScript / Vite） |
+| `Xiaohaozi8552/` | 个人小站页面（HTML） |
+| `qwen3.5-0.8b_local/` | Qwen3.5-0.8B 本地部署与 Web 问答（Python + Ollama） |
+
+以上三个项目已通过 git subtree 方式连同完整提交历史并入本仓库，原独立仓库已删除。
 
 ## 📊 扫描结果概览
 
